@@ -1,4 +1,4 @@
-<h1>NCAE Practice Lab Creation</h1>
+<h1>Practice Competition Lab Creation</h1>
 
 <h2>Description</h2>
 This project is to create a personal sandbox environment modeled after the NCAE Mini Hack sandbox. The purpose of this project is to practice the necessary technical skills for the NCAE competition. 
